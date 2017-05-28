@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_Statuses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Statuses>
+    <Status Status_Name="Burned" Status_ID="Default_0.1_Burned" Status_Function_Name="Default_0.1_Burned_Function" Status_Priority="2" Status_Display="true" Status_Removable="true" Status_Activate="beforeTurn" Status_Carry_Over="true" />
+    <Status Status_Name="Golden Heart" Status_ID="Default_0.1_Passive_GoldenHeart" Status_Function_Name="Default_0.1_Passive_GoldenHeart_Function" Status_Priority="2" Status_Display="false" Status_Removable="false" Status_Activate="beforeEnemyAttack" Status_Carry_Over="false" />
+  </Statuses>
+</Collection_Of_Statuses>

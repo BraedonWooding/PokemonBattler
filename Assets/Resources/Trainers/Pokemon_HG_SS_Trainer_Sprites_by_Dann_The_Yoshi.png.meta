@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 43c2985c22f438f4fba93b80ba13052a
+timeCreated: 1441530616
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_0
+    21300002: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_1
+    21300004: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_2
+    21300006: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_3
+    21300008: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_4
+    21300010: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_5
+    21300012: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_6
+    21300014: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_7
+    21300016: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_8
+    21300018: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_9
+    21300020: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_10
+    21300022: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_11
+    21300024: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_12
+    21300026: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_13
+    21300028: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_14
+    21300030: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_15
+    21300032: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_16
+    21300034: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_17
+    21300036: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_18
+    21300038: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_19
+    21300040: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_20
+    21300042: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_21
+    21300044: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_22
+    21300046: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_23
+    21300048: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_24
+    21300050: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_25
+    21300052: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_26
+    21300054: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_27
+    21300056: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_28
+    21300058: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_29
+    21300060: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_30
+    21300062: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_31
+    21300064: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_32
+    21300066: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_33
+    21300068: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_34
+    21300070: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_35
+    21300072: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_36
+    21300074: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_37
+    21300076: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_38
+    21300078: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_39
+    21300080: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_40
+    21300082: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_41
+    21300084: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_42
+    21300086: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_43
+    21300088: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_44
+    21300090: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_45
+    21300092: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_46
+    21300094: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_47
+    21300096: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_48
+    21300098: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_49
+    21300100: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_50
+    21300102: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_51
+    21300104: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_52
+    21300106: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_53
+    21300108: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_54
+    21300110: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_55
+    21300112: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_56
+    21300114: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_57
+    21300116: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_58
+    21300118: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_59
+    21300120: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_60
+    21300122: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_61
+    21300124: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_62
+    21300126: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_63
+    21300128: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_64
+    21300130: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_65
+    21300132: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_66
+    21300134: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_67
+    21300136: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_68
+    21300138: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_69
+    21300140: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_70
+    21300142: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_71
+    21300144: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_72
+    21300146: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_73
+    21300148: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_74
+    21300150: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_75
+    21300152: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_76
+    21300154: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_77
+    21300156: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_78
+    21300158: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_79
+    21300160: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_80
+    21300162: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_81
+    21300164: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_82
+    21300166: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_83
+    21300168: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_84
+    21300170: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_85
+    21300172: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_86
+    21300174: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_87
+    21300176: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_88
+    21300178: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_89
+    21300180: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_90
+    21300182: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_91
+    21300184: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_92
+    21300186: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_93
+    21300188: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_94
+    21300190: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_95
+    21300192: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_96
+    21300194: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_97
+    21300196: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_98
+    21300198: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_99
+    21300200: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_100
+    21300202: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_101
+    21300204: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_102
+    21300206: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_103
+    21300208: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_104
+    21300210: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_105
+    21300212: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_106
+    21300214: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_107
+    21300216: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_108
+    21300218: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_109
+    21300220: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_110
+    21300222: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_111
+    21300224: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_112
+    21300226: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_113
+    21300228: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_114
+    21300230: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_115
+    21300232: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_116
+    21300234: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_117
+    21300236: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_118
+    21300238: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_119
+    21300240: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_120
+    21300242: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_121
+    21300244: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_122
+    21300246: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_123
+    21300248: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_124
+    21300250: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_125
+    21300252: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_126
+    21300254: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_127
+    21300256: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_128
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_43
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_71
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_79
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_81
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_83
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_91
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_95
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_103
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_107
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_119
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_127
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_HG_SS_Trainer_Sprites_by_Dann_The_Yoshi_128
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

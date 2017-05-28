@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scenario Scenario_Name="Example_Scenario" User_Select_Units="true" Scenario_HasChildren="true" Scenario_Credits="Made by Braedon Wooding &#xA; Training Mission &#xA; Hope You Enjoyed">
+    <Scenario_Title_Color>
+      <r>0</r>
+      <g>51</g>
+      <b>102</b>
+      <a>255</a>
+    </Scenario_Title_Color>
+    <Scenario_Finishes>
+      <Scenario_Finish>MainMenu</Scenario_Finish>
+      <Scenario_Finish>OtherScenario</Scenario_Finish>
+      <Scenario_Finish>StartMenu</Scenario_Finish>
+    </Scenario_Finishes>
+    <Scenario_Nodes>
+      <Scenario_Node Node_Name="FirstNode" Node_HasChildren="true" Node_HasButtons="true" Node_Title="First Node Title" Node_Message="FIRST NODE :D">
+        <Node_Buttons>
+          <Node_Button Button_Name="First Button" Button_Title="First Button To Click :D" Button_Action_NodeString="SecondNode" Button_Action_NodeX="0" Button_Action="NodeString">
+            <Button_Color>
+              <r>0</r>
+              <g>204</g>
+              <b>255</b>
+              <a>255</a>
+            </Button_Color>
+          </Node_Button>
+        </Node_Buttons>
+        <Node_Children_Names>
+          <Node_Children_Name>SecondNode</Node_Children_Name>
+        </Node_Children_Names>
+        <Node_Title_Color>
+          <r>255</r>
+          <g>255</g>
+          <b>0</b>
+          <a>255</a>
+        </Node_Title_Color>
+        <Node_Message_Color>
+          <r>50</r>
+          <g>125</g>
+          <b>20</b>
+          <a>255</a>
+        </Node_Message_Color>
+      </Scenario_Node>
+      <Scenario_Node Node_Name="SecondNode" Node_HasChildren="true" Node_HasButtons="true" Node_Title="SECOND SET OF BUTTONS :D" Node_Message="This is a message">
+        <Node_Buttons />
+        <Node_Children_Names />
+        <Node_Title_Color>
+          <r>10</r>
+          <g>200</g>
+          <b>30</b>
+          <a>255</a>
+        </Node_Title_Color>
+        <Node_Message_Color>
+          <r>153</r>
+          <g>51</g>
+          <b>102</b>
+          <a>255</a>
+        </Node_Message_Color>
+      </Scenario_Node>
+    </Scenario_Nodes>
+  </Scenario>
+</Collection_Of_>

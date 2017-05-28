@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_Moves xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Moves>
+    <Move Move_Name="Move01" Move_Target="enemy" Move_Type_Name="Bug" Move_Function_Name="Default_Move01">
+      <Move_Exposables />
+    </Move>
+    <Move Move_Name="Move02" Move_Target="enemy" Move_Type_Name="Poison" Move_Function_Name="Default_Move02">
+      <Move_Exposables />
+    </Move>
+  </Moves>
+</Collection_Of_Moves>

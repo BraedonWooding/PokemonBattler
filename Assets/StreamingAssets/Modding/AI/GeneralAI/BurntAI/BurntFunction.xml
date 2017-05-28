@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Master_Node_Function xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Function Function_Name="Default_0.1_Burned_Function" Function_Before_Message="/(%TurnPokemon%)/ is burnt" Function_After_Message="">
+    <Function_Arguments>
+      <Function_Argument Argument_Name="ArgumentTest_01" Argument_TrueCall="1" Argument_FalseCall="2">
+        <Argument_Values>
+          <Argument_Value Value_Name="Pokemon_HP" Value_1="![curPokemon]" Value_Sign="~" Value_2="P:[hitPoints]" Value_Number="0" Value_String="" />
+          <Argument_Value Value_Name="^^ - 3" Value_1="[/data\]" Value_Sign="-=" Value_2="&lt;Number&gt;" Value_Number="3" Value_String="" />
+          <Argument_Value Value_Name="Pokemon-Stat exists" Value_1="[/key&lt;String&gt;\]" Value_Sign="?==" Value_2="" Value_Number="0" Value_String="If true go to 1 else go to 2" />
+        </Argument_Values>
+      </Function_Argument>
+      <Function_Argument Argument_Name="ArgumentTest_02BurntTrue" Argument_TrueCall="3" Argument_FalseCall="-1">
+        <Argument_Values>
+          <Argument_Value Value_Name="Add 1 then return it" Value_1="[/key&lt;String&gt;\]" Value_Sign="+" Value_2="&lt;Number&gt;" Value_Number="1" Value_String="burnt_i" />
+          <Argument_Value Value_Name="Randomise between 0 and 5 if it hits your number or lower then you 'win'" Value_1="RandomiseEngine" Value_Sign="()" Value_2="&lt;Number&gt;" Value_Number="5" Value_String="" />
+          <Argument_Value Value_Name="Your random number is less than i" Value_1="[/data\]" Value_Sign="&lt;" Value_2="[/key&lt;String&gt;\]" Value_Number="0" Value_String="burnt_i" />
+        </Argument_Values>
+      </Function_Argument>
+      <Function_Argument Argument_Name="ArgumentTest_03BurntFalse" Argument_TrueCall="3" Argument_FalseCall="-1">
+        <Argument_Values>
+          <Argument_Value Value_Name="Store i" Value_1="&lt;Number&gt;" Value_Sign="()" Value_2="Store[&lt;String&gt;]" Value_Number="0" Value_String="burnt_i" />
+          <Argument_Value Value_Name="Randomise between 0 and 5 if it hits your number or lower then you 'win'" Value_1="RandomiseEngine" Value_Sign="()" Value_2="&lt;Number&gt;" Value_Number="5" Value_String="" />
+          <Argument_Value Value_Name="Your random number is less than i" Value_1="[/data\]" Value_Sign="&lt;" Value_2="[/key&lt;String&gt;\]" Value_Number="0" Value_String="burnt_i" />
+        </Argument_Values>
+      </Function_Argument>
+      <Function_Argument Argument_Name="ArugmentTest_04RemoveBurn" Argument_TrueCall="-1" Argument_FalseCall="-1">
+        <Argument_Values>
+          <Argument_Value Value_Name="Remove Burn" Value_1="Println" Value_Sign="()" Value_2="&lt;String&gt;" Value_Number="0" Value_String="PokemonRecoveredFromBurn" />
+          <Argument_Value Value_Name="Actually Remove Burn" Value_1="![curPokemon]" Value_Sign="~" Value_2="!X:[StatusRemove&lt;String&gt;]" Value_Number="0" Value_String="Default_0.1_Burned" />
+        </Argument_Values>
+      </Function_Argument>
+    </Function_Arguments>
+    <Function_Calls>
+      <Function_Call>none</Function_Call>
+    </Function_Calls>
+  </Function>
+</Master_Node_Function>

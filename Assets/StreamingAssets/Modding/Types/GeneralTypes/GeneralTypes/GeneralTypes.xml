@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_Types xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Types>
+    <Type Type_Name="Bug" Type_ID="Bug">
+      <Type_Weaknesses>
+        <Type_Weakness>Bug</Type_Weakness>
+      </Type_Weaknesses>
+      <Type_Resistances>
+        <Type_Resistance>Poison</Type_Resistance>
+      </Type_Resistances>
+      <Type_Immunities>
+        <Type_Immunity>Poison</Type_Immunity>
+      </Type_Immunities>
+    </Type>
+    <Type Type_Name="Poison" Type_ID="Poison">
+      <Type_Weaknesses>
+        <Type_Weakness>Bug</Type_Weakness>
+      </Type_Weaknesses>
+      <Type_Resistances>
+        <Type_Resistance>Bug</Type_Resistance>
+      </Type_Resistances>
+      <Type_Immunities>
+        <Type_Immunity>Poison</Type_Immunity>
+      </Type_Immunities>
+    </Type>
+    <Type Type_Name="Dark" Type_ID="Dark">
+      <Type_Weaknesses>
+        <Type_Weakness>Poison</Type_Weakness>
+      </Type_Weaknesses>
+      <Type_Resistances>
+        <Type_Resistance>Bug</Type_Resistance>
+      </Type_Resistances>
+      <Type_Immunities />
+    </Type>
+  </Types>
+</Collection_Of_Types>

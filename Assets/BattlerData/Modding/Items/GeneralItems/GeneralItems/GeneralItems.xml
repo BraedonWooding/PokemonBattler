@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Item Item_Name="Item01" Item_Sprite_Name="items_16" Item_Function_Name="Default_Item_01">
+      <Item_Exposables />
+    </Item>
+  </Items>
+</Collection_Of_Items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Master_Node_Function xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Function Function_Name="Function_Choose_Action" Function_Before_Message="" Function_After_Message="">
+    <Function_Arguments>
+      <Function_Argument Argument_Name="ArgumentTest_01" Argument_TrueCall="-1" Argument_FalseCall="-1">
+        <Argument_Values>
+          <Argument_Value Value_Name="Randomise 0" Value_1="RandomiseEngine" Value_Sign="()" Value_2="&lt;Number&gt;" Value_Number="0" Value_String="" />
+          <Argument_Value Value_Name="Equal 0" Value_1="[/data\]" Value_Sign="==" Value_2="&lt;Number&gt;" Value_Number="0" Value_String="" />
+        </Argument_Values>
+      </Function_Argument>
+    </Function_Arguments>
+    <Function_Calls>
+      <Function_Call>battlerChooseAttack</Function_Call>
+    </Function_Calls>
+  </Function>
+</Master_Node_Function>

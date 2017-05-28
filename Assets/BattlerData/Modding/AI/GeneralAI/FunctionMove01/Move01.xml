@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Master_Node_Function xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Function Function_Name="FunctionMove01" Function_Before_Message="The /(%Turn%)/'s /(%TurnPokemon%)/ attacked dealing 15 damage" Function_After_Message="">
+    <Function_Arguments>
+      <Function_Argument Argument_Name="ArgumentTest_01" Argument_TrueCall="1" Argument_FalseCall="2">
+        <Argument_Values>
+          <Argument_Value Value_Name="Current Battler is enemy" Value_1="![curTurn]" Value_Sign="==" Value_2="&lt;Number&gt;" Value_Number="1" Value_String="" />
+        </Argument_Values>
+      </Function_Argument>
+      <Function_Argument Argument_Name="Current Pokemon Is Enemy" Argument_TrueCall="-1" Argument_FalseCall="-1">
+        <Argument_Values>
+          <Argument_Value Value_Name="Get Pok HP" Value_1="![curAllyPokemon]" Value_Sign="~" Value_2="P:[hitPoints]" Value_Number="0" Value_String="" />
+          <Argument_Value Value_Name="^^ - 15" Value_1="[/data\]" Value_Sign="-=" Value_2="&lt;Number&gt;" Value_Number="15" Value_String="" />
+          <Argument_Value Value_Name="Exit Command" Value_1="&lt;Number&gt;" Value_Sign="==" Value_2="&lt;Number&gt;" Value_Number="0" Value_String="" />
+        </Argument_Values>
+      </Function_Argument>
+      <Function_Argument Argument_Name="Current Pokemon Is Ally" Argument_TrueCall="-1" Argument_FalseCall="-1">
+        <Argument_Values>
+          <Argument_Value Value_Name="Get Pok HP" Value_1="![curEnemyPokemon]" Value_Sign="~" Value_2="P:[hitPoints]" Value_Number="0" Value_String="" />
+          <Argument_Value Value_Name="^^ - 15" Value_1="[/data\]" Value_Sign="-=" Value_2="&lt;Number&gt;" Value_Number="15" Value_String="" />
+          <Argument_Value Value_Name="Exit Command" Value_1="&lt;Number&gt;" Value_Sign="==" Value_2="&lt;Number&gt;" Value_Number="0" Value_String="" />
+        </Argument_Values>
+      </Function_Argument>
+    </Function_Arguments>
+    <Function_Calls>
+      <Function_Call>none</Function_Call>
+    </Function_Calls>
+  </Function>
+</Master_Node_Function>

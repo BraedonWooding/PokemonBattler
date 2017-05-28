@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_Pokemon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pokemon>
+    <Pokemon Pokemon_Name="Pokemon01" Pokemon_Sprite_Name="pokemon_2" Pokemon_Speed="5" Pokemon_MaxHP="100" Pokemon_HP="50">
+      <Pokemon_Types>
+        <Pokemon_Type>Dark</Pokemon_Type>
+        <Pokemon_Type>Bug</Pokemon_Type>
+      </Pokemon_Types>
+      <Pokemon_Move_Names>
+        <Pokemon_Move_Name>Move01</Pokemon_Move_Name>
+        <Pokemon_Move_Name>Move02</Pokemon_Move_Name>
+      </Pokemon_Move_Names>
+      <Pokemon_Status_Names>
+        <Pokemon_Status_Name>Default_0.1_Passive_GoldenHeart</Pokemon_Status_Name>
+      </Pokemon_Status_Names>
+      <Pokemon_Exposable>
+        <Pokemon_Exposable>
+          <identifier>Hearts</identifier>
+          <value>10.5332</value>
+        </Pokemon_Exposable>
+      </Pokemon_Exposable>
+    </Pokemon>
+    <Pokemon Pokemon_Name="Pokemon02" Pokemon_Sprite_Name="pokemon_10" Pokemon_Speed="10" Pokemon_MaxHP="150" Pokemon_HP="80">
+      <Pokemon_Types>
+        <Pokemon_Type>Poison</Pokemon_Type>
+        <Pokemon_Type>Bug</Pokemon_Type>
+      </Pokemon_Types>
+      <Pokemon_Move_Names>
+        <Pokemon_Move_Name>Move01</Pokemon_Move_Name>
+        <Pokemon_Move_Name>Move02</Pokemon_Move_Name>
+      </Pokemon_Move_Names>
+      <Pokemon_Status_Names>
+        <Pokemon_Status_Name>Default_0.1_Passive_GoldenHeart</Pokemon_Status_Name>
+      </Pokemon_Status_Names>
+      <Pokemon_Exposable />
+    </Pokemon>
+  </Pokemon>
+</Collection_Of_Pokemon>
